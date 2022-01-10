@@ -7,4 +7,4 @@ See: https://github.com/Bllrt-cindy/weatherAppLocation
 
 The first API we created in group work
 
-See: https://github.com/Bllrt-cindy/weatherAppLocation
+See: https://github.com/Bllrt-cindy/First-API
